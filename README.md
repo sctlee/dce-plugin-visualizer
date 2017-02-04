@@ -1,2 +1,2 @@
-# dce-plugin-visualizer
+# dce-visualizer-plugin
 The visualizer plugin for DCE
