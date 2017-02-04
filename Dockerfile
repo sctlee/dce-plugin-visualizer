@@ -13,3 +13,5 @@ LABEL maintainer="Secret Lee" \
 RUN sed -i s/8080/80/g /app/server.js
 
 COPY ./plugin.json /app/dist/plugin.json
+
+EXPOSE 80
